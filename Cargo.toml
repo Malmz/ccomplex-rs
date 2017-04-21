@@ -1,0 +1,5 @@
+[package]
+name = "ccomplex"
+version = "0.1.0"
+authors = ["Calle Malmz <callem217@gmail.com>"]
+
