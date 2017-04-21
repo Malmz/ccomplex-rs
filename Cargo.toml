@@ -5,7 +5,7 @@ authors = ["Calle Malmz <callem217@gmail.com>"]
 description="Easy to use complex numbers"
 repository = "https://github.com/Malmz/ccomplex-rs"
 readme="README.md"
-licence="MIT"
+license="MIT"
 keywords = ["Math", "Complex"]
 categories = ["science"]
 
